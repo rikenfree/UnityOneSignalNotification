@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495004486508",
+    "project_id": "onesinaldemo-25c94",
+    "storage_bucket": "onesinaldemo-25c94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495004486508:android:f4156b42d9d0b43eb30149",
+        "android_client_info": {
+          "package_name": "com.casualsuppergames.onesignaldemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYXnpaAz31C6P3hTGZW_vw_sTI9VdoMcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
